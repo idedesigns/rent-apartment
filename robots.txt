@@ -1,0 +1,7 @@
+User-agent: *
+
+Allow: /
+
+
+
+sitemap: https://idedesigns.github.io/rent-apartment/sitemapx.xml
